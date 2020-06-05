@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Sean Stills</title>
+    <link>https://spstills23.github.io/Sean_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Sean Stills</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://spstills23.github.io/Sean_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vacation Blog Website</title>
+      <link>https://spstills23.github.io/Sean_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spstills23.github.io/Sean_Portfolio/post/project-4/</guid>
+      <description>Project 4: Vacation Website  This is my website project I built of my trip I took to Iceland. It is more like a travel blog/photo gallery. This is the basic write up for it with more refined and update photo gallerys to come. I incorporated HTML language to build the infustructure of the website and linked CSS elments to stylize the website. Used Javascript to prompt displays when clicking the logo as well as to display the picture slideshow.</description>
+    </item>
+    
+  </channel>
+</rss>
